@@ -1,0 +1,4 @@
+<BrowserRouter>
+         <Sidebar/> {/* ternary operator*/}
+        <Routing/>
+      </BrowserRouter>
